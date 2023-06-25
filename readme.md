@@ -1,4 +1,4 @@
-## Ej.1 Siguiendo el trazo
+## Ej.1 
 
 **¿Qué comando utilizaste en el paso 11? ¿Por qué?**
 > `git reset --hard HEAD~1` : Este comando mueve el puntero HEAD (y la rama actual si estás en una) al commit previo, en 
